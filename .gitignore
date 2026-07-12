@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Data (keep folders; ignore large local dumps if desired)
+# data/raw/*
+# !data/raw/.gitkeep
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
