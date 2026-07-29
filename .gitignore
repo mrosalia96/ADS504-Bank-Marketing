@@ -9,9 +9,11 @@ venv/
 # Jupyter / Colab
 .ipynb_checkpoints/
 
-# Data (keep folders; ignore large local dumps if desired)
+# Data (keep folders; ignore generated processed artifacts)
 # data/raw/*
 # !data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
 
 # Local scratch (not committed)
 _local/
