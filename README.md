@@ -26,7 +26,7 @@ notebooks/       # Google Colab / Jupyter notebooks (EDA, preprocessing, modelin
 
 - Michael Rosalia — mrosalia@sandiego.edu
 - Malik Tisani — mtisani@sandiego.edu
-- Jordan Gonzales — jordang-10@sandiego.edu
+- Jordan Gonzales — jordyngonzales@sandiego.edu
 
 ## Setup
 
