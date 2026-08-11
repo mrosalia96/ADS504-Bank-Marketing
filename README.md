@@ -103,7 +103,7 @@ Upload the repo (or clone it), set notebook paths to your Drive/`data` location 
 
 - Michael Rosalia — mrosalia@sandiego.edu
 - Malik Tisani — mtisani@sandiego.edu
-- Jordan Gonzales — jordyngonzales@sandiego.edu
+- Jordyn Gonzales — jordyngonzales@sandiego.edu
 
 ## License
 
